@@ -1,0 +1,8 @@
+.idea
+.parcel-cache
+
+.env.development
+.env.production
+
+dist
+node_modules
